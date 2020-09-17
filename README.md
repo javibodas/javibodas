@@ -17,6 +17,8 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Aplicación Spring Boot en Heroku. Instalación y Configuración II](https://bodblog.herokuapp.com/post/aplicacion-spring-boot-instala-config-II)
+- [Aplicación Spring Boot en Heroku. Instalación y Configuración](https://bodblog.herokuapp.com/post/aplicacion-spring-boot-instala-config)
 <!-- BLOG-POST-LIST:END -->
 <!--
 **javibodas/javibodas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
